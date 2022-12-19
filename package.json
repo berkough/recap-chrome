@@ -23,7 +23,7 @@
   "dependencies": {
     "bootstrap": "^4.6.0",
     "file-saver": "2.0.5",
-    "jquery": "~3.6.0",
+    "jquery": "~3.6.2",
     "moment": "~2.29.1"
   },
   "devDependencies": {
